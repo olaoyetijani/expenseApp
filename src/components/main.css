@@ -1,0 +1,36 @@
+.mainBlock {
+    border-radius: 5px;
+    box-sizing: border-box;
+    text-align: center;
+    background-color: #fff;
+    padding: 20px;
+    width: 100%;
+    max-width: 350px;
+    margin: 100px auto;
+    display: table;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+.underLine {
+    text-align: center;
+    margin: 7px 0 0 0;
+    display: block;
+}
+
+.linkBtn {
+    border: 0;
+    background-color: unset;
+    text-decoration: underline;
+    color: #3c403c;
+    padding: 0;
+    margin: 0;
+}
+
+.Spinner {
+    display: table;
+    margin: 0 auto;
+}
+
+.Spinner > .ImgSpinner {
+    max-width: 30px;
+}
